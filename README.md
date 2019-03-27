@@ -37,9 +37,9 @@ curl --request PUT \
 }'  
   
 TODO: 
-Security token
-Move Account type to new table
-Add Test cases
-RAML /Swagger REST documentation
+--Security token
+--Move Account type to new table
+--Add Test cases
+--RAML /Swagger REST documentation
   
   
