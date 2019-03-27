@@ -36,5 +36,10 @@ curl --request PUT \
 	"lastName": "Les"
 }'  
   
+TODO: 
+Security token
+Move Account type to new table
+Add Test cases
+RAML /Swagger REST documentation
   
   
